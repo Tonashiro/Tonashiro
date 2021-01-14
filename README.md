@@ -4,7 +4,7 @@
 
 <p align="left">I'm studying <b>System Analysis and Development</b> at FATEC Sorocaba.</p>
 
-<p align=left>:bow_and_arrow: Skills: <b>HTML, CSS< and C.</b></p>
+<p align=left>:bow_and_arrow: Skills: <b>HTML, CSS and C.</b></p>
 
 <p align="left">:eyeglasses: <b>Studying: JavaScript, C#, Bootstrap and Java.</b></p>
 
