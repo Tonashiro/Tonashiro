@@ -1,6 +1,4 @@
-| <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computer"> |      |      |
-| ------------------------------------------------------------ | ---- | ---- |
-|                                                              |      |      |
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computer">
 
 <h2 align="left">Hello, I'm Vinicius Tonashiro :wave: </h2>​
 
