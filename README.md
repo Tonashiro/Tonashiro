@@ -3,9 +3,9 @@
 
 <p align="left">I'm studying <b>System Analysis and Development</b> at FATEC Sorocaba.</p>
 
-<p align=left>:bow_and_arrow: Skills: <b>HTML, CSS and C.</b></p>
+<p align=left>:bow_and_arrow: Skills: <b>JavaScript, SASS, React, HTML, CSS, C, Java and C#.</b></p>
 
-<p align="left">:eyeglasses: <b>Studying: JavaScript, C#, Bootstrap and Java.</b></p>
+<p align="left">:eyeglasses: <b>Studying: Wordpress, SASS and NextJs.</b></p>
 
 <p align="left">:hammer_and_wrench: Tools: <b>Visual Studio Code, Git, GitHub, TypeScript and SublimeText 3.</b></p>
 
