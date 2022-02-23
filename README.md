@@ -5,7 +5,7 @@
 
 <p align=left>:bow_and_arrow: Skills: <b>NextJs, WordPress, JavaScript, SASS, React, HTML, CSS, C, Java and C#.</b></p>
 
-<p align="left">:eyeglasses: <b>Studying: VTEX, TypeScript.</b></p>
+<p align="left">:eyeglasses: <b>Studying: Strapi, TypeScript.</b></p>
 
 <p align="left">:hammer_and_wrench: Tools: <b>Visual Studio Code, Git and GitHub.</b></p>
 
