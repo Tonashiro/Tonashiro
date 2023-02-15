@@ -11,7 +11,7 @@
 
 <p align="left">:love_letter: Social networks: <a href="https://www.linkedin.com/in/vinicius-tonashiro-de-souza-0032561ab/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://api.whatsapp.com/send?phone=+5515991454623&text=Ol%C3%A1,%20prazer%20Vinicius." alt="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5515996311542&text=Ol%C3%A1%20Juliana!%20"/></a></p>
 
-<p align="center">
+<!-- <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tonashiro&count_private=true&show_icons=true&theme=nord&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonashiro&layout=compact&theme=nord&hide_border=true" /> 
-</p>
+</p> -->
